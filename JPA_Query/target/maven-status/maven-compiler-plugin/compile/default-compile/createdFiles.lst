@@ -1,0 +1,4 @@
+com\example\springJPA\JpaQueryApplication.class
+com\example\springJPA\controller\UserController.class
+com\example\springJPA\model\User.class
+com\example\springJPA\repository\UserRepository.class
